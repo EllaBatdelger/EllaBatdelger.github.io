@@ -7,7 +7,7 @@ Welcome to my project portfolio! This repository showcases a collection of my da
 
 ## **Projects**
 
-### 1. **[Economic Analysis Project](./Economic_Analysis_Project/README.md)**
+### 1. **[Economic Analysis Project](./Economic%20Analysis%20Project/README.md)**
 - **Description**: Analyzed unemployment trends across U.S. states using Python, the FRED API, and web scraping.
 - **Highlights**:
   - Automated data collection using APIs.
@@ -17,7 +17,7 @@ Welcome to my project portfolio! This repository showcases a collection of my da
 
 ---
 
-### 2. **[University Diversity Score Project](./University_Diversity_Score_Project/README.md)**
+### 2. **[University Diversity Score Project](./College%20Diversity%20Score%20Prediction%20Project/README.md)**
 - **Description**: A collaborative project analyzing and predicting diversity scores for U.S. universities, with a focus on Liberal Arts Colleges.
 - **Highlights**:
   - Predicted student and professor diversity using machine learning.
