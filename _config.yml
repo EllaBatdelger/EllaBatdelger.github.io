@@ -1,3 +1,13 @@
 title: Munkhtsatsral (Ella) Batdelger 
-show_downloads: t
+show_downloads: true
+url: "https://EllaBatdelger.github.io"
 theme: minimal
+color_scheme: light
+colors:
+  background: "#ffffff"
+  text: "#333333"
+  accent: "#007acc"
+# Fonts
+fonts:
+  heading: "'Roboto', sans-serif"
+  body: "'Open Sans', sans-serif"
