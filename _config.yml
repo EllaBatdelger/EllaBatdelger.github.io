@@ -11,3 +11,4 @@ colors:
 fonts:
   heading: "'Roboto', sans-serif"
   body: "'Open Sans', sans-serif"
+  bundle exec jekyll serve
