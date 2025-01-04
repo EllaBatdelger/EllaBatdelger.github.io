@@ -18,7 +18,7 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 ## 💼 Projects
 ### 1. [Economic Analysis Project](./Economic%20Analysis%20Project/)
 <div align="center">
-    <img src="./Images/UnemploymentRate.png" alt="Unemployment Rate Analysis" width="400" />
+    <img src="./Images/UnemploymentRate" alt="Unemployment Rate Analysis" width="400" />
 </div>
 Analyzed unemployment trends using Python and FRED API.  
 
