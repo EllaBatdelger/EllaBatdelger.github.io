@@ -3,7 +3,10 @@
 **Welcome!**  
 This is my professional portfolio, showcasing my resume, projects, and online profiles.
 ---
-![Ella Batdelger](./Images/ProfilePic.jpg "Ella Batdelger")
+---
+
+![Ella Batdelger](./Images/ProfilePic.jpeg "Ella Batdelger")
+
 ---
 
 ## 📄 Resume
