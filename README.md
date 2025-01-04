@@ -17,10 +17,14 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 
 ## 💼 Projects
 ### 1. [Economic Analysis Project](./Economic%20Analysis%20Project/)
+<div align="center">
+    <img src="./Images/UnemploymentRate.png" alt="Unemployment Rate Analysis" width="400" />
+</div>
 Analyzed unemployment trends using Python and FRED API.  
+
 [Explore Project →](https://github.com/ellabatdelger/portfolio/tree/main/Economic%20Analysis%20Project)
 
-### 2. [College Diversity Score Prediction](./College%20Diversity%20Score%20Prediction%20Project/README.md)
+### 2. [College Diversity Score Prediction](./College%20Diversity%20Score%20Prediction%20Project/)
 <div align="center">
     <img src="./Images/StudentDiversityImage.png" alt="Student Diversity Analysis" width="400" />
     <img src="./Images/MSEStudentDiversity.png" alt="Model Performance MSE" width="400" />
