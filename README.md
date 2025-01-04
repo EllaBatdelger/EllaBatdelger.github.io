@@ -4,8 +4,9 @@
 This is my professional portfolio, showcasing my resume, projects, and online profiles.
 ---
 ---
-
-![Ella Batdelger](./Images/ProfilePic.jpeg "Ella Batdelger")
+<div align="center">
+    <img src="./Images/ProfilePic.jpeg" alt="Ella Batdelger" width="200" />
+</div>
 
 ---
 
