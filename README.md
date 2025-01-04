@@ -11,7 +11,8 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 ---
 
 ## Resume
-[View My Resume](./resume.pdf)
+[View My Resume](./Ella_Batdelger_CV.pdf)
+
 
 ---
 
