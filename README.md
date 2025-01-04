@@ -11,7 +11,7 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 ---
 
 ## 💼 Projects
-### 1. [Economic Analysis Project](./Economic%20Analysis%20Project/README.md)
+### 1. [Economic Analysis Project](./Economic%20Analysis%20Project/)
 Analyzed unemployment trends using Python and FRED API.  
 [Explore Project →](./Economic%20Analysis%20Project)
 
