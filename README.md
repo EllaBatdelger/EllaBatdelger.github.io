@@ -10,12 +10,12 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 
 ---
 
-## 📄 Resume
+## Resume
 [View My Resume](./resume.pdf)
 
 ---
 
-## 💼 Projects
+## Recent Projects
 ### 1. [Economic Analysis Project](./Economic%20Analysis%20Project/)
 <div align="center">
     <img src="./Images/UnemploymentRate.png" alt="Unemployment Rate Analysis" width="400" />
@@ -35,7 +35,7 @@ Predicted student and professor diversity with machine learning.
 
 ---
 
-## 🌐 Connect
+## Relevant Links
 - [GitHub](https://github.com/ellabatdelger)
 - [LinkedIn](https://www.linkedin.com/in/ella-batdelger-796644167/)
 - [FlowCV Portfolio](https://flowcv.me/ella-batdelger)
