@@ -22,7 +22,7 @@ Analyzed unemployment trends using Python and FRED API.
 
 ### 2. [College Diversity Score Prediction](./College%20Diversity%20Score%20Prediction%20Project/README.md)
 Predicted student and professor diversity with machine learning.  
-[Explore Project →](./College%20Diversity%20Score%20Prediction%20Project)
+[Explore Project →](https://github.com/EllaBatdelger/EllaBatdelger.github.io/tree/main/College%20Diversity%20Score%20Prediction%20Project)
 
 ---
 
