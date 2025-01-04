@@ -1,13 +1,5 @@
-title: Munkhtsatsral (Ella) Batdelger 
-show_downloads: true
-url: "https://EllaBatdelger.github.io"
-theme: jekyll-theme-tactile
-color_scheme: light
-colors:
-  background: "#ffffff"
-  text: "#333333"
-  accent: "#007acc"
-# Fonts
-fonts:
-  heading: "'Roboto', sans-serif"
-  body: "'Open Sans', sans-serif"
+title: Ella Batdelger
+description: Quantitative Economics and Data Analytics Student at Dickinson College 
+theme: jekyll-theme-cayman
+plugins:
+      - jekyll-seo-tag
