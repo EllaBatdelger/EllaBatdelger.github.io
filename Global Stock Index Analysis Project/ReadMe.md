@@ -11,15 +11,16 @@ This project focuses on analyzing financial data from multiple stock indices usi
 ## Data Sources
 ### Indices Used
 The following stock indices were analyzed:
-- **BVSP (Ibovespa)**: Represents the performance of the Brazilian stock market, offering insights into emerging market trends.
+- **BVSP (Brazilian Stock Index)**: Represents the performance of the Brazilian stock market, offering insights into emerging market trends.
 - **DJI (Dow Jones Industrial Average)**: Tracks 30 large-cap U.S. companies, serving as a barometer for the U.S. economy.
 - **FTSE (Financial Times Stock Exchange 100 Index)**: Highlights the performance of the top 100 companies listed on the London Stock Exchange.
-- **GDAXI (DAX Index)**: Represents the top 40 companies on the Frankfurt Stock Exchange, reflecting the health of the German economy.
+- **GDAXI (German Stock Index)**: Represents the top 40 companies on the Frankfurt Stock Exchange, reflecting the health of the German economy.
 - **HSI (Hang Seng Index)**: Tracks major companies in Hong Kong, providing a snapshot of the Asian financial market.
 - **NDX (NASDAQ-100 Index)**: Focuses on 100 of the largest non-financial companies listed on NASDAQ, emphasizing the technology sector.
 - **RUT (Russell 2000 Index)**: Measures the performance of 2,000 small-cap U.S. companies, often used as an indicator of domestic market trends.
 - **SPX (S&P 500 Index)**: Tracks the top 500 publicly traded U.S. companies, widely regarded as a representation of the overall market.
-
+### Data Collection
+The data for these indices was sourced from the Yahoo Finance database using Python code. By automating data retrieval, this approach streamlined the process, ensured accuracy, and made it easier to access updated financial data for analysis. The code for this process is also documented in the folder under `Global_Stock_Index_Analysis_Project.ipynb` file. 
 ### Why These Indices?
 These indices were chosen for their diverse representation of global markets and sectors, enabling a comprehensive analysis of market trends and investor behavior.
 
@@ -35,20 +36,37 @@ These indices were chosen for their diverse representation of global markets and
    - **Close in USD**: Converted `Close` price using currency conversion rates.
 3. **Final Excel File**:
    The output file (`query_result.xlsx`) contains the following columns:
-   - `Date`: Date of the record.
-   - `Ticker`: Stock index ticker.
-   - `Description`: Full name of the stock index.
-   - `Currency`: Original currency of the index.
-   - `ConversionToUSD`: Exchange rate used for USD conversion.
-   - `AdjustedClose`: Adjusted closing price.
-   - `Close`: Closing price in original currency.
-   - `Close_in_USD`: Converted closing price in USD.
-   - `Volume`: Trade volume.
-   - `PriceChange`: Percentage change in closing price compared to the previous month.
-   - `VolumeChange`: Percentage change in volume compared to the previous month.
-   - `MonthlyReturn`: Logarithmic return of the closing price.
+   - `Date`
+   - `Ticker`
+   - `Description`
+   - `Currency`
+   - `ConversionToUSD`
+   - `AdjustedClose`
+   - `Close`
+   - `Close_in_USD`
+   - `Volume`
+   - `PriceChange`
+   - `VolumeChange`
+   - `MonthlyReturn`
+
 ### Conversion Ratio
 The conversion ratio for each currency to USD was calculated using today's exchange rates to ensure consistency and relevance. This enables seamless comparison of indices across different currencies.
+
+---
+
+## Power BI Dashboard
+### Pages and Features
+1. **Index Overview**:  
+   - Visualizes all indices with metrics like `Closing Price`, `Monthly Return Rate`, `Price Change Rate`, `Volume`, and `Volume Change`.  
+   - Includes two slicers: `Ticker` and `Year`, which are synchronized across pages.
+2. **Monthly Returns Overview**:  
+   - Displays `Monthly Return Rate` over time, with the same slicers for `Ticker` and `Year`.
+3. **Top Market Performers**:  
+   - Highlights top-performing indices based on `Closing Price in USD` using a bar graph.  
+   - Includes a `Year` slicer for targeted analysis.
+
+### Files
+- The **PDF** report of the dashboard and the **PBIX** file have been uploaded in the project directory for further review.
 
 ---
 
@@ -70,19 +88,6 @@ By integrating metrics like price changes, volume variations, and returns, the r
 
 ---
 
-## Output
-The final processed data includes:
-- `Date`
-- `Ticker`
-- `Close_in_USD`
-- `PriceChange`
-- `VolumeChange`
-- `MonthlyReturn`
-
-The results are saved in an Excel file (`query_result.xlsx`) and visualized in Power BI dashboards.
-
----
-
 ## Tools and Technologies
 - **SQL**: For data manipulation and complex calculations.
 - **SQLite**: Managing combined and metadata tables.
@@ -100,5 +105,5 @@ This project significantly improved my:
 ---
 
 ## Author
-Ella Batdelger
-batdelgm@dickinson.edu
+Ella Batdelger  
+[batdelgm@dickinson.edu](mailto:batdelgm@dickinson.edu)  
