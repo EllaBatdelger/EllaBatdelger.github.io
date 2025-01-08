@@ -19,10 +19,8 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 ## Recent Projects
 ### 1.[Global Stock Index Analysis Project](./Global%20Stock%20Index%20Analysis%20Project/)
 
-
----
 <div align="center" style="display: flex; justify-content: center; gap: 10px;"> <img src="./Images/Stock_Index_Page_1.png" alt="Index Overview" width="300" /> <img src="./Images/Stock_Index_Page_2.png" alt="Monthly Returns" width="300" /> <img src="./Images/Stock_Index_Page_3.png" alt="Top Market Performers" width="300" /> </div>
----
+
 Analyzed data from major global stock indices using SQL, Python, and Power BI. Automated data retrieval from Yahoo Finance, calculated key metrics, and created interactive dashboards to visualize trends and performance.
 
 [Explore Project →](https://github.com/EllaBatdelger/EllaBatdelger.github.io/tree/main/Global%20Stock%20Index%20Analysis%20Project)
