@@ -17,10 +17,13 @@ This is my professional portfolio, showcasing my resume, projects, and online pr
 ---
 
 ## Recent Projects
-### 1. Global Stock Index Analysis Project
-<div align="center"> <img src="./Images/StockDashboard.png" alt="Global Stock Index Dashboard" width="400" /> </div> 
+### 1.[Global Stock Index Analysis Project](./Global%20Stock%20Index%20Analysis%20Project/)
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;"> <div style="margin: 10px;"> <img src="./Images/Stock_Index_Page_1.png" alt="Index Overview" width="300" /> <p align="center"><em>Index Overview: Summary of metrics with slicers for Ticker and Year.</em></p> </div> <div style="margin: 10px;"> <img src="./Images/Stock_Index_Page_2.png" alt="Monthly Returns" width="300" /> <p align="center"><em>Monthly Returns: Time-series visualization of returns over time.</em></p> </div> <div style="margin: 10px;"> <img src="./Images/Stock_Index_Page_3.png" alt="Top Market Performers" width="300" /> <p align="center"><em>Top Market Performers: Bar graph highlighting indices with the highest closing prices.</em></p> </div> </div>
+
 Analyzed data from major global stock indices using SQL, Python, and Power BI. Automated data retrieval from Yahoo Finance, calculated key metrics, and created interactive dashboards to visualize trends and performance.
-Explore Project →
+
+[Explore Project →](https://github.com/EllaBatdelger/EllaBatdelger.github.io/tree/main/Global%20Stock%20Index%20Analysis%20Project)
 
 
 ### 2. [Economic Analysis Project](./Economic%20Analysis%20Project/)
