@@ -1,5 +1,3 @@
-# Ella Batdelger - Portfolio
-
 **Welcome!**  
 This is my professional portfolio, showcasing my resume, projects, and online profiles.
 
@@ -48,4 +46,4 @@ Predicted student and professor diversity with machine learning.
 ## Relevant Links
 - [GitHub](https://github.com/ellabatdelger)
 - [LinkedIn](https://www.linkedin.com/in/ella-batdelger-796644167/)
-- [FlowCV Portfolio](https://flowcv.me/ella-batdelger)
+
