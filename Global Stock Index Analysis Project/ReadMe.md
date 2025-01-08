@@ -20,7 +20,7 @@ The following stock indices were analyzed:
 - **RUT (Russell 2000 Index)**: Measures the performance of 2,000 small-cap U.S. companies, often used as an indicator of domestic market trends.
 - **SPX (S&P 500 Index)**: Tracks the top 500 publicly traded U.S. companies, widely regarded as a representation of the overall market.
 ### Data Collection
-The data for these indices was sourced from the Yahoo Finance database using Python code. By automating data retrieval, this approach streamlined the process, ensured accuracy, and made it easier to access updated financial data for analysis. The code for this process is also documented in the folder under Global_Stock_Index_Analysis_Project.ipynb file. 
+The data for these indices was sourced from the Yahoo Finance database using Python code. By automating data retrieval, this approach streamlined the process, ensured accuracy, and made it easier to access updated financial data for analysis. The code for this process is also documented in the folder under `Global_Stock_Index_Analysis_Project.ipynb` file. 
 ### Why These Indices?
 These indices were chosen for their diverse representation of global markets and sectors, enabling a comprehensive analysis of market trends and investor behavior.
 
