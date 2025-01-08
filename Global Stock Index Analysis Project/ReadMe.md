@@ -14,7 +14,7 @@ The following stock indices were analyzed:
 - **BVSP (Brazilian Stock Index)**: Represents the performance of the Brazilian stock market, offering insights into emerging market trends.
 - **DJI (Dow Jones Industrial Average)**: Tracks 30 large-cap U.S. companies, serving as a barometer for the U.S. economy.
 - **FTSE (Financial Times Stock Exchange 100 Index)**: Highlights the performance of the top 100 companies listed on the London Stock Exchange.
-- **GDAXI (DAX Index)**: Represents the top 40 companies on the Frankfurt Stock Exchange, reflecting the health of the German economy.
+- **GDAXI (German Stock Index)**: Represents the top 40 companies on the Frankfurt Stock Exchange, reflecting the health of the German economy.
 - **HSI (Hang Seng Index)**: Tracks major companies in Hong Kong, providing a snapshot of the Asian financial market.
 - **NDX (NASDAQ-100 Index)**: Focuses on 100 of the largest non-financial companies listed on NASDAQ, emphasizing the technology sector.
 - **RUT (Russell 2000 Index)**: Measures the performance of 2,000 small-cap U.S. companies, often used as an indicator of domestic market trends.
