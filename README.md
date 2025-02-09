@@ -28,7 +28,7 @@ This project analyzes data from major global stock indices using SQL, Python, an
 <div align="center">
     <img src="./Images/UnemploymentRate.png" alt="Unemployment Rate Analysis" width="400" />
 </div>
-Here I Analyzed U.S. unemployment trends using data from the FRED API, combined with web scraping and visualization techniques. This project highlights data cleaning, exploratory analysis, and the creation of interactive charts to reveal key insights.
+This project aims to analyze U.S. unemployment trends using data from the FRED API, combined with web scraping and visualization techniques. This project highlights data cleaning, exploratory analysis, and the creation of interactive charts to reveal key insights.
 
 [Explore Project →](https://github.com/ellabatdelger/portfolio/tree/main/Economic%20Analysis%20Project)
 
@@ -37,7 +37,7 @@ Here I Analyzed U.S. unemployment trends using data from the FRED API, combined 
     <img src="./Images/StudentDiversityImage.png" alt="Student Diversity Analysis" width="400" />
     <img src="./Images/MSEStudentDiversity.png" alt="Model Performance MSE" width="400" />
 </div>
-This project analyzes and predicts diversity scores for U.S. universities, focusing on student and professor diversity. Using machine learning models and data analysis, we provide insights into diversity trends at National Universities and Liberal Arts Colleges.
+This project analyzes and predicts diversity scores for U.S. universities, focusing on student and professor diversity. Using machine learning models and data analysis with Python libraries (like Pandas, NumPy, and Scikit-learn), we provide insights into diversity trends at National Universities and Liberal Arts Colleges.
 
 
 
